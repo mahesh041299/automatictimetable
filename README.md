@@ -1,0 +1,2 @@
+# automatictimetable
+automatic timetable generator
